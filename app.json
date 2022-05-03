@@ -8,7 +8,7 @@
         "save restricted",
         "bot"
     ],
-    "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
+    "repository": "https://github.com/ankitmeena01/SaveRestrictedContentBot",
     "website": "",
     "success_url": "https://t.me/DroneBots",
     "env": {
@@ -34,7 +34,7 @@
             "url": "heroku/python"
         },
         {
-            "url": "https://github.com/ankitmeena01/heroku-buildpack-ffmpeg-latest.git"
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
         }
     ]
 }
